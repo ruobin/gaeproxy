@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.gaeproxy</groupId>
     <artifactId>gaeproxy</artifactId>
-    <version>0.21.8</version>
+    <version>0.30.3</version>
     <packaging>apk</packaging>
     <name>GAEProxy</name>
 
@@ -107,7 +107,7 @@
                 <plugin>
                     <groupId>com.jayway.maven.plugins.android.generation2</groupId>
                     <artifactId>android-maven-plugin</artifactId>
-                    <version>3.4.1</version>
+                    <version>3.6.0</version>
                     <extensions>true</extensions>
                 </plugin>
             </plugins>
